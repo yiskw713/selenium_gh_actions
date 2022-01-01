@@ -14,7 +14,7 @@ jobs:
       - name: Setting up chrome driver
         uses: nanasess/setup-chromedriver@v1
         with:
-          chromedriver-version: '96.0.4664.110'
+          chromedriver-version: '96.0.4664.45'
       
       # set up python
       - name: Setting up python.
